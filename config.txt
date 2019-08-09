@@ -3,4 +3,4 @@ prefix=+
 game=OmaR TG 
 stayinchannel=true
 songinstatus=false
-token=NjA4NzUyMDIyOTIxMTUwNDc1.XUsvkg.UcrixLJOEvyei2HmrKZ37GEXRuY
+token=NjA1NzUyNjA3MzYwODExMDEw.XU05hg.TsXwVghjzVEfBpsiHGPJ9ATG8Wc
